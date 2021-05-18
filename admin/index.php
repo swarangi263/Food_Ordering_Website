@@ -3,7 +3,7 @@
     <!---Main Section------>
     <div class="main-content">
         <div class="wrapper">
-            <h1>DASHBOARD</h1>
+            <h1>Home-DASHBOARD</h1>
             <br><br>
 
             <?php
